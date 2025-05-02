@@ -28,5 +28,9 @@
 # watchers
 ## it is good for watching a single attribute if multiple attributes needs to be handled compute is preferred.
 
+# ShortHands
+## v-on: => @
+## v-bind: => :
+
 
 
